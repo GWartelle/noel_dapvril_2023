@@ -1,5 +1,32 @@
-body {
-    font-family: Arial;
-    width: 50%;
+* {
+    margin: 0;
 }
 
+body {
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+    background-image: url('image/fond_menu.jpg');
+    background-size: cover;
+    text-align: center;
+    padding: 100px;
+}
+
+h1 {
+    margin: 50px;
+}
+
+h1, h2 {
+    color: maroon;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+section {
+    margin: 30px;
+}
+
+li {
+    list-style-type: none;
+}
